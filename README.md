@@ -27,5 +27,3 @@ Función deleteArista(Vertice origen, Vertice destino):
       para cada arista en la colección 'aristas':
           eliminar una arista si su vértice destino == vertice
 ```
-### Explicación de la implementación de los métodos a desarrollar
-
